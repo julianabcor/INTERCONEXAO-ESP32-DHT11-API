@@ -157,11 +157,9 @@ curl http://<IP_DO_ESP32>/[PREENCHER: rota]
 
 ## Autoria
 
-Amanda de Souza Miranda
-Ana Clara Rodrigues Abreu
-Juliana Branco Cordeiro
-Luíza da Silva
+- Amanda de Souza Miranda
+- Ana Clara Rodrigues Abreu
+- Juliana Branco Cordeiro
+- Luíza da Silva
 
 ## CentroWEG - MA 78
-
-`[PREENCHER: adicionar colegas de equipe, instituição/curso e licença, se aplicável.]`
